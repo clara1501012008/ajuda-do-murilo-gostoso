@@ -49,6 +49,6 @@ h6 {font-size: 300%;
 text-align: center
 }
 
-#ima3 { align-items: center;
-
-}
+#ima3 {width: 50%;
+    margin-left: 25%;
+    }
